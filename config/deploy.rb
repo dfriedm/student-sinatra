@@ -1,6 +1,6 @@
 require 'bundler/capistrano' # for bundler support
 
-set :application, "studentbody"
+set :application, "student-body"
 set :repository,  "git@github.com:dfriedm/student-sinatra.git"
 
 set :user, 'dfriedm'
